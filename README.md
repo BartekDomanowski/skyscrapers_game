@@ -37,7 +37,7 @@ Celem gry jest wypełnienie planszy liczbami tak, aby spełnione były wskazówk
 
 | Funkcja             | Opis                                                          |
 | ------------------- | ------------------------------------------------------------- |
-| **Nowa gra**        | Generowanie losowych plansz o rozmiarach 3x3 - 7x7            |
+| **Nowa gra**        | Generowanie losowych plansz o rozmiarach 3x3 - 5x5            |
 | **Wczytaj z pliku** | Import planszy z pliku tekstowego                             |
 | **Zapis gry**       | Eksport aktualnego stanu gry do pliku                         |
 | **Timer**           | Pomiar czasu rozwiazywania lamiglowki                         |
